@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    
+    <book>
+        <id>01</id>
+        <title>İnsan İnsana</title>
+        <author>Doğan Cüceoğlu</author>
+        <publisher>Remzi Kitapevi</publisher>
+        <ISBN>9789751402967</ISBN>
+        <date>2001</date>
+        <price>24,32</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Yeniden-Insan-Insana/Dogan-Cuceloglu/Egitim-Basvuru/Psikoloji-Bilimi/urunno=0000000054531</url>
+    </book>
+       
+    <book>
+        <id>02</id>
+        <title>Sakın Kişisel Gelişme</title>
+        <author>İzzet Zülküf Çelik</author>
+        <publisher>Alter Yayınları</publisher>
+        <ISBN>9786054745302</ISBN>
+        <date>2013</date>
+        <price>6,02</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Sakin/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000433419</url>
+    </book>
+    
+     <book>
+        <id>03</id>
+        <title>Küçük Mutluluklar Kitabı</title>
+        <author>Aşkım Kapışmak</author>
+        <publisher>İnkılap Kitapevi</publisher>
+        <ISBN>9789751032232</ISBN>
+        <date>2015</date>
+        <price>16,50</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Kucuk-Mutluluklar-Kitabi/Askim-Kapismak/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000398259</url>
+    </book>
+    
+     <book>
+        <id>04</id>
+        <title>Dünden Bugüne Karagöz Oyunları</title>
+        <author>Kolektif</author>
+        <publisher>Kitabevi Yayınları</publisher>
+        <ISBN>9786054907397</ISBN>
+        <date>2019</date>
+        <price>32,00</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Dunden-Bugune-Karagoz-Oyunlari/Sanat-Tasarim/Tiyatro-/Tiyatro-Teknigi/urunno=0001821178001</url>
+    </book>
+    
+     <book>
+        <id>05</id>
+        <title>Nutuk</title>
+        <author>Mustafa Kemal Atatürk</author>
+        <publisher>Alfa Yayıncılık</publisher>
+        <ISBN>9786051718583</ISBN>
+        <date>2017</date>
+        <price>9,90</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Nutuk/Arastirma-Tarih/Tarih/Ataturk/urunno=0001720020001</url>
+    </book>
+    
+    <book>
+        <id>06</id>
+        <title>Sen</title>
+        <author>Mehmed Uzun</author>
+        <publisher>İthaki Yayınları</publisher>
+        <ISBN>9786053758907</ISBN>
+        <date>2015</date>
+        <price>14,96</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Sen/Edebiyat/Roman/Turkiye-Roman/urunno=0000000201468</url>
+    </book>
+    
+     <book>
+        <id>07</id>
+        <title>Tekinsiz Öyküler</title>
+        <author>Sir Arthur Conan Doyle</author>
+        <publisher>İthaki Yayınları</publisher>
+        <ISBN>9786057762535</ISBN>
+        <date>2019</date>
+        <price>17,00</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Tekinsiz-Oykuler/Edebiyat/Roman/Korku-Gerilim/urunno=0001854507001</url>
+    </book>
+    
+     <book>
+        <id>08</id>
+        <title>Başlangıç 2020</title>
+        <author>Türker Akıncı</author>
+        <publisher>Destek Yayınları</publisher>
+        <ISBN>9786053117773</ISBN>
+        <date>2020</date>
+        <price>15,60</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Baslangic-2020/Arastirma-Tarih/Politika-Arastirma/Dunya-Politika-/urunno=0001867542001</url>
+    </book>
+    
+      <book>
+        <id>09</id>
+        <title>Körlük</title>
+        <author>Jose Saramago</author>
+        <publisher>Kırmızı Kedi</publisher>
+        <ISBN>9786052980811</ISBN>
+        <date>2017</date>
+        <price>21,00</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Korluk/Edebiyat/Roman/Dunya-Roman/urunno=0001704045001</url>
+    </book>
+    
+    <book>
+        <id>10</id>
+        <title>Şeker Portakalı</title>
+        <author>Jose Mauro De Vasconcelos</author>
+        <publisher>Can Çocuk Yayınları</publisher>
+        <ISBN>9789750738609</ISBN>
+        <date>2000</date>
+        <price>16,45</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Seker-Portakali/Edebiyat/Roman/Dunya-Roman/urunno=0000000064031</url>
+    </book>
+    
+    <book>
+        <id>11</id>
+        <title>Genç Werther'in Acıları</title>
+        <author>Johann Wolfgang Von Goethe</author>
+        <publisher>Koridor Yayıncılık</publisher>
+        <ISBN>9786057572158</ISBN>
+        <date>2019</date>
+        <price>10,22</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Genc-Wertherin-Acilari/Edebiyat/Roman/Dunya-Klasik/urunno=0001794356001</url>
+    </book>
+    
+    <book>
+        <id>12</id>
+        <title>Vadideki Zambak</title>
+        <author>Honore de Balzac</author>
+        <publisher>Can Yayınları</publisher>
+        <ISBN>9789755101798</ISBN>
+        <date>2007</date>
+        <price>18,00</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Vadideki-Zambak/Edebiyat/Roman/Dunya-Klasik/urunno=0000000064149</url>
+    </book>
+    
+    <book>
+        <id>13</id>
+        <title>Zehra</title>
+        <author>Nabizade Nazım</author>
+        <publisher>Türk Edebiyat Vakfı Yayınları</publisher>
+        <ISBN>9786059320191</ISBN>
+        <date>2017</date>
+        <price>10,92</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Zehra/Nabizade-Nazim/Edebiyat/Roman/Turk-Klasik/urunno=0001717893001</url>
+    </book>
+    
+     <book>
+        <id>14</id>
+        <title>Martı Jonathan Livingston</title>
+        <author>Richard Bach</author>
+        <publisher>Epsilon Yayınevi</publisher>
+        <ISBN>9789944829670</ISBN>
+        <date>2000</date>
+        <price>16,72</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Marti-Jonathan-Livingston/Richard-Bach/Edebiyat/Roman/Dunya-Roman/urunno=0000000056587</url>
+    </book>
+    
+    <book>
+        <id>15</id>
+        <title>Sineklerin Tanrısı</title>
+        <author>William Golding</author>
+        <publisher>İş Bankası Kültür Yayınları</publisher>
+        <ISBN>9789754582901</ISBN>
+        <date>2006</date>
+        <price>11,20</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Sineklerin-Tanrisi/Edebiyat/Roman/Dunya-Roman/urunno=0000000107800</url>
+    </book>
+    
+    <book>
+        <id>16</id>
+        <title>Sergüzeşt</title>
+        <author>Samipaşazade Sezai</author>
+        <publisher>Sahhaflar Kitap Sarayı</publisher>
+        <ISBN>9789756743492</ISBN>
+        <date>2000</date>
+        <price>5,00</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Serguzest/Samipasazade-Sezai/Edebiyat/Roman/Turk-Klasik/urunno=0000000524439</url>
+    </book>
+            
+    <book>
+        <id>17</id>
+        <title>Geçmişe Yolculuk</title>
+        <author>Stefan Zweig</author>
+        <publisher>İş Bankası Kültür Yayınları</publisher>
+        <ISBN>9786052953440</ISBN>
+        <date>2018</date>
+        <price>4,90</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Gecmise-Yolculuk/Edebiyat/Roman/Dunya-Klasik/urunno=0001743614001</url>
+    </book>
+    
+    <book>
+        <id>18</id>
+        <title>Ay Işığı Sokağı</title>
+        <author>Stefan Zweig</author>
+        <publisher>İş Bankası Kültür Yayınları</publisher>
+        <ISBN>9786052950722</ISBN>
+        <date>2017</date>
+        <price>4,90</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Ay-Isigi-Sokagi/Edebiyat/Roman/Dunya-Roman/urunno=0001705401001</url>
+    </book>
+    
+    <book>
+        <id>19</id>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <publisher>Can Yayınları</publisher>
+        <ISBN>9789750718533</ISBN>
+        <date>2000</date>
+        <price>24,50</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/1984/Edebiyat/Roman/Dunya-Roman/urunno=0000000064038</url>
+    </book>
+    
+        <book>
+        <id>20</id>
+        <title>Hayvan Çiftliği</title>
+        <author>George Orwell</author>
+        <publisher>Can Yayınları</publisher>
+        <ISBN>9789750719387</ISBN>
+        <date>2001</date>
+        <price>14,00</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Hayvan-Ciftligi/Edebiyat/Roman/Dunya-Roman/urunno=0000000105409</url>
+    </book>
+    
+</catalogue>
+    
