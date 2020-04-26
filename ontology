@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/CQ3IVgOpbJB0NnZURd92A3#"
+     xml:base="http://webprotege.stanford.edu/project/CQ3IVgOpbJB0NnZURd92A3"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/CQ3IVgOpbJB0NnZURd92A3"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/publisher -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9apmY6aBuDvYbojs0af3c7 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9apmY6aBuDvYbojs0af3c7">
+        <rdfs:label xml:lang="tr">price</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCO25rmLn8mVv6wqnGmFj2u -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCO25rmLn8mVv6wqnGmFj2u">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label xml:lang="tr">Isbn</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6fe1XBgBkEnB54JjJDThr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R6fe1XBgBkEnB54JjJDThr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9YSu1coc7jIxg7TB7hwm0T"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Petek Demir İncek</dc:contributor>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dan Brown</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Altın Kitaplar</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da Vinci Şifresi</dc:title>
+        <rdfs:label xml:lang="tr">Aksiyon/Macera</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8wxc9dhvJeARbzJiTCYI2R -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8wxc9dhvJeARbzJiTCYI2R">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9YSu1coc7jIxg7TB7hwm0T"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Püren Özgören</dc:contributor>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Khaled Hosseini</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Everest Yayınları</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uçurtma Avcısı</dc:title>
+        <rdfs:label xml:lang="tr">Drama</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9YSu1coc7jIxg7TB7hwm0T -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9YSu1coc7jIxg7TB7hwm0T">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9pumt3o6h4uhBKntJjuSBv"/>
+        <rdfs:label xml:lang="tr">Kurgu</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9pumt3o6h4uhBKntJjuSBv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9pumt3o6h4uhBKntJjuSBv">
+        <rdfs:label xml:lang="tr">Kitap</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC82hLsuj8A8py75ufg5TS7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC82hLsuj8A8py75ufg5TS7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9YSu1coc7jIxg7TB7hwm0T"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saadet Özkal</dc:contributor>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michael Ende</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pegasus</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bitmeyecek Öykü</dc:title>
+        <rdfs:label xml:lang="tr">Masal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCDBLfe04Wl0QeAX0b9ViDE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCDBLfe04Wl0QeAX0b9ViDE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RVtuhk5aiALmE7KJH6XBgP"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ayşe Kulin</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Everest Yayınları</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adı: Aylin</dc:title>
+        <rdfs:label xml:lang="tr">Biyografi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RED4lrZn5xYzOAsvGQBANK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RED4lrZn5xYzOAsvGQBANK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RVtuhk5aiALmE7KJH6XBgP"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amin Maalouf</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yapı Kredi Yayınları</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semerkant</dc:title>
+        <rdfs:label xml:lang="tr">Tarih</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLQ6xstpflPLMW9gghEMU5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RLQ6xstpflPLMW9gghEMU5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RVtuhk5aiALmE7KJH6XBgP"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elvan Uysal Bottoni</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yapı Kredi Yayınları</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emma Teyze&apos;nin Kitabı-Yeni Başlayanlar İçin İtalyan Mutfağı</dc:title>
+        <rdfs:label xml:lang="tr">Yemek</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RVtuhk5aiALmE7KJH6XBgP -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RVtuhk5aiALmE7KJH6XBgP">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9pumt3o6h4uhBKntJjuSBv"/>
+        <rdfs:label xml:lang="tr">Kurgu olmayan düz yazı</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
